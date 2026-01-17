@@ -1,11 +1,13 @@
 # ASL-to-Text Chrome Extension
 A browser extension that translates American Sign Language (ASL) fingerspelling into text input in real-time, enabling deaf and hard-of-hearing users to interact with web forms and applications using sign language.
-Project Status: Active Development
-Timeline:
+*Project Status:* Active Development
+*Timeline:*
 
-August 2024: Initial concept and research phase - explored OpenCV and TensorFlow approaches for gesture recognition
-October 2024: Paused due to academic commitments
-January 2025: Resumed development with refined technical approach using MediaPipe Hands for browser-based implementation
+August 2024: Initial concept and research phase - explored OpenCV and TensorFlow approaches for gesture recognition.
+
+October 2024: Paused due to academic commitments.
+
+January 2025: Resumed development with refined technical approach using MediaPipe Hands for browser-based implementation.
 
 # Motivation
 Web accessibility for the deaf and hard-of-hearing community remains limited. While screen readers help blind users, there are few tools that allow ASL users to interact with web interfaces using their primary language. This extension aims to bridge that gap by enabling direct ASL input into any text field on the web.
